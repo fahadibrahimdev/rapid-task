@@ -1,0 +1,7 @@
+@tailwind base;
+body{
+    @apply text-tertiary
+}
+@tailwind components;
+
+@tailwind utilities;
